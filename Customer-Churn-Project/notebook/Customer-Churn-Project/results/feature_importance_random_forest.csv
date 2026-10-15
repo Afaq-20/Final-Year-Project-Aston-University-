@@ -1,0 +1,21 @@
+feature,importance
+Contract_Month-to-month,0.1248046966792858
+tenure,0.09770160981292184
+PaymentMethod_Electronic check,0.07109924310926702
+OnlineSecurity_No,0.07070486760339205
+TechSupport_No,0.06233258270714673
+TotalCharges,0.06212272795823458
+Contract_Two year,0.05777838240046048
+MonthlyCharges,0.0444351782494092
+InternetService_Fiber optic,0.035326643815772586
+Contract_One year,0.02922699523356368
+OnlineSecurity_Yes,0.02903586668513855
+OnlineBackup_No,0.027049288422142395
+TechSupport_Yes,0.020919926992184576
+DeviceProtection_No,0.01656300649717857
+PaperlessBilling_No,0.01607774335799011
+InternetService_DSL,0.01512214974906183
+PaperlessBilling_Yes,0.013419155424218612
+Dependents_No,0.013051269862667168
+PaymentMethod_Credit card (automatic),0.011044800213902597
+Dependents_Yes,0.010713738639172814

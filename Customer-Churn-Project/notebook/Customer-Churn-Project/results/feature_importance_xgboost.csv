@@ -1,0 +1,21 @@
+feature,importance
+Contract_Month-to-month,0.28165585
+TechSupport_No,0.10245288
+OnlineSecurity_No,0.060871135
+PaymentMethod_Electronic check,0.055120155
+InternetService_Fiber optic,0.048007205
+Dependents_No,0.04007085
+PaperlessBilling_No,0.031415813
+StreamingTV_No,0.028572302
+PaymentMethod_Bank transfer (automatic),0.026003722
+OnlineBackup_No,0.025192207
+tenure,0.02382848
+MultipleLines_No,0.023693034
+Contract_Two year,0.021407487
+StreamingMovies_Yes,0.018705225
+Contract_One year,0.018569756
+Partner_No,0.01830797
+StreamingTV_Yes,0.017867798
+StreamingMovies_No,0.01727979
+TechSupport_Yes,0.014219843
+PaymentMethod_Credit card (automatic),0.014098013

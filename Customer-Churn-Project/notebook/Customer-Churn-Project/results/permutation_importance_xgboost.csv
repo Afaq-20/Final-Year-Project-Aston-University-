@@ -1,0 +1,21 @@
+feature,importance
+Contract_Month-to-month,0.02110874200426439
+tenure,0.018621179815209665
+StreamingTV_No,0.014925373134328346
+InternetService_Fiber optic,0.013148542999289258
+StreamingTV_Yes,0.008742004264392334
+PaymentMethod_Electronic check,0.0038379530916844208
+StreamingMovies_No,0.002985074626865669
+InternetService_DSL,0.001990049751243772
+PaperlessBilling_No,0.0019189765458421993
+PaymentMethod_Mailed check,0.0015636105188343795
+SeniorCitizen_0,0.0011371712864249872
+Partner_No,0.0008528784648187515
+OnlineSecurity_Yes,0.0001421464108031234
+OnlineBackup_No,0.0001421464108031123
+PhoneService_No,7.10732054015617e-05
+PaperlessBilling_Yes,0.0
+StreamingTV_No internet service,0.0
+StreamingMovies_No internet service,0.0
+OnlineSecurity_No internet service,0.0
+SeniorCitizen_1,0.0
